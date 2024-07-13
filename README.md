@@ -12,4 +12,4 @@ A sample programme exists to find out and print the habitable planets similar to
 ## Author
 
 Sahil K Gupta
-<i class="fa fa-envelope" aria-hidden="true"></i>sahilkgupta@ieee.org
+<i class="fa fa-envelope"></i>sahilkgupta@ieee.org
